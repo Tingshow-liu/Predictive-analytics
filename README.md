@@ -1,2 +1,2 @@
 # Predictive-analytics
-Apply ML to digital company marketing campaigns 
+Apply ML to digital company digital marketing campaigns 
