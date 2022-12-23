@@ -8,10 +8,10 @@
   * Static feature, ex: time on website, total number of pages viewed, total number of buttons clicked, etc.  
   * Behavior feature, ex: buttoms clicked (add to cart, header, etc.)
 ---
-* ML deployment
+* ML deployment:
   * Google Cloud Platform tools (BigQuery, Vertex AI)
   * Google APIs (GA Management API)
   * Google tools (Google Analytics, Google Ads)
 ---
 * Code:
-  *   
+  * Connect  
