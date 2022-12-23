@@ -14,4 +14,4 @@
   * Google tools (Google Analytics, Google Ads)
 ---
 * Code:
-  * Connect  
+  > Connect Google BigQuery (SQL) & Vertex AI (Python) to process data more
