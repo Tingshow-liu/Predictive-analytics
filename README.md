@@ -14,4 +14,6 @@
   * Google tools (Google Analytics, Google Ads)
 ---
 * Code:
-  > Connect Google BigQuery (SQL) & Vertex AI (Python) to process data more
+  > Connect Google BigQuery (SQL) & Vertex AI (Python) to process data more efficiently
+  > Class "Update_data":
+  * 
