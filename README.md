@@ -45,3 +45,6 @@
   >> (1) Map model predictions with member info to find re-marketing targets  
   >> (2) Get "Next purchasers" (customers with high purchase propensity)  
   >> (3) Transfer the prediction result to the correct format for deployment on Google Ads  
+---
+* Management API:
+  * Upload the predictions to media platform for model deployment daily
